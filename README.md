@@ -1,0 +1,5 @@
+-Heyho im Nix
+-First year IT student
+-My Github are just fun projects
+-I code in Python
+-I use Arch btw
