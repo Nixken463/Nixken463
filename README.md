@@ -7,7 +7,7 @@
 ###
 
 <p align="left">I'm an IT student from Germany interested in all sorts of tech, especially coding and a.i</p>
-<p align="left"> Currently I'm trying to deepen my fundamental knowledge of python before going back to learn PyTorch</p>
+<p align="left"> Currently I'm trying to deepen my fundamental knowledge of python before going back to learning PyTorch</p>
 
 ###
 
